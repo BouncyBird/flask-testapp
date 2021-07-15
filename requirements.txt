@@ -1,7 +1,0 @@
-flask
-click
-jinja
-markupsafe
-werkzeug
-itsdangerous
-gunicorn
